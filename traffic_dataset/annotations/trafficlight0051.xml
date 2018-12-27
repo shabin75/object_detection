@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sortedimages</folder>
+	<filename>trafficlight0051.jpg</filename>
+	<path>C:/Users/ashtamypc/Desktop/PYTHON/3.12.18/coverted/sortedimages/trafficlight0051.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>786</width>
+		<height>442</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trafficlight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>35</ymin>
+			<xmax>311</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

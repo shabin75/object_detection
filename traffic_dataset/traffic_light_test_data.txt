@@ -1,0 +1,49 @@
+traffic_dataset/images/trafficlight0169.jpg 62,94,641,427,0
+traffic_dataset/images/trafficlight0129.jpg 259,1,365,243,0
+traffic_dataset/images/trafficlight0067.jpg 107,100,160,208,0
+traffic_dataset/images/trafficlight0076.jpg 348,111,357,127,0 423,134,430,149,0
+traffic_dataset/images/trafficlight0098.jpg 383,29,437,157,0 801,292,839,392,0 58,48,120,185,0
+traffic_dataset/images/trafficlight0015.jpg 745,181,847,406,0 1238,195,1332,412,0
+traffic_dataset/images/trafficlight0024.jpg 619,174,683,322,0 580,222,681,324,0
+traffic_dataset/images/trafficlight0017.jpg 161,102,462,650,0
+traffic_dataset/images/trafficlight0055.jpg 26,17,335,655,0 54,46,303,623,0 1151,1,1234,70,0
+traffic_dataset/images/trafficlight0048.jpg 287,59,302,93,0 484,66,502,84,0
+traffic_dataset/images/trafficlight0047.jpg 120,5,175,154,0
+traffic_dataset/images/trafficlight0150.jpg 66,59,114,137,0
+traffic_dataset/images/trafficlight0162.jpg 888,647,1002,947,0 991,297,1093,573,0 625,402,720,668,0 1330,472,1435,752,0
+traffic_dataset/images/trafficlight0195.jpg 69,36,100,110,0 434,91,519,316,0
+traffic_dataset/images/trafficlight0136.jpg 129,276,229,372,0
+traffic_dataset/images/trafficlight0053.jpg 130,23,158,73,0 133,135,164,187,0
+traffic_dataset/images/trafficlight0143.jpg 465,251,509,342,0 89,228,135,343,0 16,221,78,293,0 976,432,1019,527,0
+traffic_dataset/images/trafficlight0159.jpg 675,411,1073,728,0
+traffic_dataset/images/trafficlight0033.jpg 258,90,276,130,0 474,153,492,202,0 161,100,178,137,0
+traffic_dataset/images/trafficlight0194.jpg 48,6,87,121,0 84,160,107,226,0 184,159,210,230,0
+traffic_dataset/images/trafficlight0134.jpg 236,69,263,135,0
+traffic_dataset/images/trafficlight0189.jpg 139,49,247,91,0
+traffic_dataset/images/trafficlight0037.jpg 227,80,402,148,0
+traffic_dataset/images/trafficlight0026.jpg 25,165,45,204,0 141,74,170,134,0 253,21,308,102,0 243,187,259,221,0 305,167,326,207,0 507,123,525,167,0 571,83,601,141,0 292,138,311,177,0
+traffic_dataset/images/trafficlight0057.jpg 44,15,127,149,0
+traffic_dataset/images/trafficlight0041.jpg 403,108,586,589,0 600,139,768,588,0 600,293,766,438,0
+traffic_dataset/images/trafficlight0124.jpg 797,498,1318,1846,0
+traffic_dataset/images/trafficlight0113.jpg 124,22,158,115,0
+traffic_dataset/images/trafficlight0092.jpg 280,38,298,46,0
+traffic_dataset/images/trafficlight0120.jpg 313,130,350,294,0
+traffic_dataset/images/trafficlight0135.jpg 171,24,193,71,0 339,30,361,77,0
+traffic_dataset/images/trafficlight0153.jpg 195,86,244,190,0
+traffic_dataset/images/trafficlight0158.jpg 517,316,591,516,0
+traffic_dataset/images/trafficlight0101.jpg 340,10,382,94,0
+traffic_dataset/images/trafficlight0165.jpg 130,152,146,186,0
+traffic_dataset/images/trafficlight0138.jpg 19,14,150,250,0 181,14,313,249,0
+traffic_dataset/images/trafficlight0023.jpg 742,116,1070,800,0 431,334,672,869,0 328,284,425,491,0
+traffic_dataset/images/trafficlight0045.jpg 801,485,1405,1898,0
+traffic_dataset/images/trafficlight0172.jpg 436,47,934,675,0
+traffic_dataset/images/trafficlight0157.jpg 307,1,338,76,0 553,163,583,217,0
+traffic_dataset/images/trafficlight0114.jpg 469,118,697,770,0 209,553,442,779,0
+traffic_dataset/images/trafficlight0012.jpg 145,119,255,310,0 642,293,789,466,0 749,177,901,371,0
+traffic_dataset/images/trafficlight0198.jpg 177,113,212,180,0 426,107,454,178,0
+traffic_dataset/images/trafficlight0122.jpg 168,240,191,293,0
+traffic_dataset/images/trafficlight0006.jpg 1707,28,2141,954,0 1774,991,2115,1305,0
+traffic_dataset/images/trafficlight0108.jpg 23,35,61,120,0 72,39,143,136,0
+traffic_dataset/images/trafficlight0039.jpg 122,43,145,98,0 429,222,450,241,0 427,152,453,208,0
+traffic_dataset/images/trafficlight0084.jpg 112,1,201,155,0
+traffic_dataset/images/trafficlight0163.jpg 1115,3,1681,1575,0 1701,512,2181,1386,0
